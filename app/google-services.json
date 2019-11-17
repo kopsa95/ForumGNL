@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "841325359099",
+    "firebase_url": "https://forumgnl-654c9.firebaseio.com",
+    "project_id": "forumgnl-654c9",
+    "storage_bucket": "forumgnl-654c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841325359099:android:d02a4fbd84f5ae7beb255e",
+        "android_client_info": {
+          "package_name": "com.example.forumgnl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841325359099-e43u54lal9uon6qe94n7ue8braiaspd6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forumgnl",
+            "certificate_hash": "443877259d3cc082b993d81e40725904ea128cf8"
+          }
+        },
+        {
+          "client_id": "841325359099-v37app3esv7al6ik0edgtekoucqjimlv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnSW9wVB94HgwLxSP5UL3k41fnuS3PVno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841325359099-v37app3esv7al6ik0edgtekoucqjimlv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
